@@ -11,3 +11,16 @@ Lets You set a custom Teamspeak Server in Better Battlelog
 4) Enter in the Plugin Options in Better Battlelog
 
 5) Enjoy!
+
+
+# Instruções de Instalação do Better-Battlelog-Custom-Teamspeak
+
+1) Visite ttp://www.tsviewer.com/index.php
+
+2) Ache seu servidor preferido
+
+3) Obtenha o ID, seja da URL (index.php?page=ts_viewer&ID=xx onde XX é o seu ID) ou abaixo do nome do servidor onde indica REG ID: xx
+
+4) Insira em seu plugin do Battlelog
+
+5) Curta
